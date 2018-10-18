@@ -1,0 +1,14 @@
+body{
+ background: violet;   
+ color: blue;
+}
+#firstparagraph{
+    font-size: 40px;
+    font-weight: bold;
+} 
+
+.headers {
+
+font-family:  arial;
+text-align: center;
+}
